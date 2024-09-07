@@ -1,1 +1,1 @@
-Building a simple, cute two player poker app. 
+Building a cute, simple two player poker app. 
